@@ -4,11 +4,10 @@
 <h1 align="center"><b>Hi , I'm Malaka Perera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/surajmalaka29">
     <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=28&pause=1200&color=00FF00&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I%E2%80%99m+Malaka+Perera+%F0%9F%91%8B;I+am+an+Undergraduate+%40+BCI+Campus;Passionate+about+Web+Development+%26+Networking;Music+Lover+%F0%9F%8E%B6+%7C+Traveler+%F0%9F%8C%8D+%7C+Gym+Enthusiast" />
   </a>
 </p>
-
 <h2> About Me </h2>
 <table align="center">
 <tr border="none">
